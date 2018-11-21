@@ -1,0 +1,11 @@
+*.iml
+/bin/
+app/build/
+app/src/main/bin/
+app/src/main/gen/
+build/
+.idea/
+.gradle
+/local.properties
+/.idea/workspace.xml
+.DS_Store

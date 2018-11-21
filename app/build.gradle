@@ -1,0 +1,26 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion '28.0.1'
+    useLibrary 'org.apache.http.legacy'
+    defaultConfig {
+        applicationId 'just.trust.me'
+        minSdkVersion 16
+        targetSdkVersion 22
+        versionCode 3
+        versionName '.3'
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    provided fileTree(dir: 'libs', include: ['*.jar'])
+}
