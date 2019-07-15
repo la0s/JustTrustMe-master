@@ -2,4 +2,4 @@
 
 ![](https://raw.githubusercontent.com/la0s/la0s.github.io/master/screenshots/JustTrustMe-master.png)
 
-<img src="https://raw.githubusercontent.com/la0s/la0s.github.io/master/screenshots/JustTrustMe-master.png" width="120%" height="120%">
+<img src="https://raw.githubusercontent.com/la0s/la0s.github.io/master/screenshots/JustTrustMe-master.png" width="200%" height="200%">
